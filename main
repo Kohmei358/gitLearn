@@ -6,7 +6,7 @@
 /*        Written By: Jack Long, Kohmei Kadoya, and  Abby Dennin             */
 /*                                                                           */
 /*---------------------------------------------------------------------------*/
-
+#edited By CommanderBlop 1.0
 //Hail Brian
 //vex::brain      Brain;
 vex::motor      BackR(vex::PORT9, vex::gearSetting::ratio18_1, false);
